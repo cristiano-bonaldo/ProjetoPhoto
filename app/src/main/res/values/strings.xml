@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjetoPhoto</string>
+    <string name="imagen">Imagen</string>
+    <string name="take_picture">Take a Picture</string>
+
+    <string name="facebook_app_id" translatable="false">448380828914046</string>
+</resources>
